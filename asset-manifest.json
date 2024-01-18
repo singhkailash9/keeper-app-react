@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/keeper-react-app/tree/gh-pages/static/js/main.bf921563.js",
-    "index.html": "/keeper-react-app/tree/gh-pages/index.html",
-    "main.bf921563.js.map": "/keeper-react-app/tree/gh-pages/static/js/main.bf921563.js.map"
+    "main.js": "/keeper-react-app/static/js/main.bf921563.js",
+    "index.html": "/keeper-react-app/index.html",
+    "main.bf921563.js.map": "/keeper-react-app/static/js/main.bf921563.js.map"
   },
   "entrypoints": [
     "static/js/main.bf921563.js"
