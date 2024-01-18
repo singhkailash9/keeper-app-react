@@ -1,6 +1,11 @@
 import React from 'react';
 
 function Note(props){
+
+    function handleDelete(){
+        props.onDelete(props.id)
+    }
+
     return <div className='note'>
         <h1>
             {props.title}
@@ -8,6 +13,7 @@ function Note(props){
         <p>
             {props.content}
         </p>
+        <button onClick={handleDelete}>Delete</button>
     </div>
 }
 
